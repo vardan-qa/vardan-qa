@@ -85,8 +85,10 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter2.png)
+[<img src="/Junior_Eng.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Junior%20Eng.png)
+[<img src="/Junior Ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Junior%20Ru.png)
+[<img src="/Middle Eng.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Middle%20Eng.png)
+[<img src="/Middle Ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Middle%20Ru.png)
 
 <br>
 <br>
