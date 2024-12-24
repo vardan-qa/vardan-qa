@@ -88,8 +88,7 @@
 [<img src="/Junior_Eng.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Junior%20Eng.png)
 [<img src="/Junior Ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Junior%20Ru.png)
 [<img src="/Middle_Eng.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Middle%20Eng.png)
-[<img src="/Middle Ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Middle%20Ru.png)
-
+[<img src="/Middle_Ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vardan-qa/vardan-qa/refs/heads/main/Middle%20Ru.png)
 <br>
 <br>
 
